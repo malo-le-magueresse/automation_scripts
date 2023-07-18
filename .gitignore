@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+build
+dist 
+job_searches
