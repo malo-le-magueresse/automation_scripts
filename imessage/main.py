@@ -4,10 +4,6 @@ from utils import *
 
 # Other Python modules
 import os
-from urllib.request import urlopen
-import json
-import pandas as pd 
-from datetime import datetime
 
 ### GETTING THE DATA
 df = weather_data(URL)
